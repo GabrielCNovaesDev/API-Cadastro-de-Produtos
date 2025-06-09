@@ -25,7 +25,7 @@ Projeto de uma API RESTful construída com Spring Boot para cadastro e gestão d
 
 2. **Clonar o repositório**:
 ```bash
-git clone https://github.com/seu-usuario/produto-api.git
+git clone https://github.com/GabrielCNovaesDev/API-Cadastro-de-Produtos.git
 ```
 
 3. **Executar o projeto**:
